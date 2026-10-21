@@ -1,9 +1,9 @@
-name: "Deploy Github Actions EC2 Instance"
+name: Deploy Next.js (estático) a EC2
 
-on :
+on:
   push:
-      branches:
-        - main, master
+    branches: [main, master]
+  workflow_dispatch:
 
 jobs:
   deploy:
