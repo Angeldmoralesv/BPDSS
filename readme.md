@@ -1,4 +1,4 @@
-# 📝 Gestor de Tareas
+# 📝 Gestor de Tareas cuc
 
 
 ![Vista de la aplicación](./public/screenshot.png)
